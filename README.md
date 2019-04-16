@@ -1,4 +1,4 @@
-``# Search algorithm: n-puzzle problem:
+# Search algorithm: n-puzzle problem:
 
 
 ## The project
